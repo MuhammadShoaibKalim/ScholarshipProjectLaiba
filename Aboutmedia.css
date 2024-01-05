@@ -1,0 +1,198 @@
+@media screen and (max-width:1000px) {
+    .main-header {
+        margin: 8rem 0rem 0rem 5em;
+    }
+
+    .head-img {
+        width: 24rem;
+    }
+
+    .freelance-img {
+        width: 19rem;
+    }
+
+    .wordpress-img {
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .flex {
+    margin: 0rem 2rem;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .scope {
+        margin: 0rem 0rem;
+    }
+
+    .main-box {
+        position: absolute;
+    }
+
+    .main-header {
+        position: relative;
+        left: -16rem;
+        top: 0;
+        width: 53%;
+        margin: 8rem 0rem 0rem 22em;
+    }
+
+    .head-img {
+        width: 18rem;
+    }
+
+    .wordpress-img {
+        width: 14rem;
+        margin: 0rem 1rem;
+    }
+
+    .sidebar .toggle-btn {
+        font-size: 29px;
+    }
+
+    .sidebar {
+
+        display: block;
+
+    }
+
+    .sidebar a {
+        font-size: 16px;
+        padding: 22px 10px;
+    }
+
+    .sign-heading {
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+
+    .main-header {
+            position: relative;
+            left: -11rem;
+            top: 22rem;
+            margin: 8rem 0rem 0rem 20em;
+            padding: 15px;
+            width: 77%;
+        }
+        .main-header h2 {
+            margin: 0em;
+        }
+    .headinds h1 {
+        font-size: 35px;
+    }
+
+    .headinds h2 {
+        font-size: 32px;
+    }
+
+    .head {
+        font-size: 30px;
+    }
+
+    .freelance-img {
+        width: 12rem;
+    }
+
+    .head-img {
+        width: 13rem;
+    }
+
+    .wordpress-img {
+        width: 11rem;
+    }
+
+}
+
+@media screen and (max-width:680px) {
+    .headinds h1 {
+        font-size: 29px;
+    }
+
+    .headinds h2 {
+        font-size: 25px;
+    }
+
+    .head-img {
+        width: 16rem;
+    }
+
+    .whole-section-one p {
+        font-size: 17px;
+    }
+
+    .whole-section-one ol li {
+        font-size: 17px;
+    }
+
+    .whole-section-one ul li {
+        font-size: 17px;
+    }
+
+    .wordpress-img {
+        width: 11rem;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .flex-img {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .headinds h1 {
+        font-size: 26px;
+    }
+
+    .headinds h2 {
+        font-size: 23px;
+    }
+    .main-header{
+        left: -16rem;
+    }
+}
+
+@media screen and (max-width:410px) {
+    .headinds h1 {
+        font-size: 24px;
+    }
+
+    .headinds h2 {
+        font-size: 20px;
+    }
+
+    .head {
+        font-size: 23px;
+    }
+
+    .head-img {
+        width: 14rem;
+    }
+
+    .wordpress-img {
+        width: 11rem;
+    }
+        .flex {
+            margin: 0rem 2rem;
+            flex-direction: column;
+            gap: 20px;
+        }
+}
+@media screen and (max-width:390px) {
+    .main-header {
+        
+            margin: 8rem 0rem 0rem 14em;
+           
+        }
+}
+@media screen and (max-width:370px) {
+    .main-header{
+        left: -10rem;
+    }
+}

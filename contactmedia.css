@@ -1,0 +1,42 @@
+@media screen and (max-width:1138px) {
+    #contact-us {
+        border: white;
+        box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+        padding: 1rem;
+        width: 26rem;
+    }
+
+    .contact-heading {
+        font-size: 32px;
+    }
+
+    .name {
+        margin: .6rem 0rem;
+    }
+
+    .input-data {
+        width: 19rem;
+    }
+
+    #textarea {
+        width: 20rem;
+
+    }
+
+}
+@media screen and (max-width:736px) {
+    #contact-us {
+            width: 23rem;
+        }
+                .styling {
+                    display: flex;
+                    justify-content: space-evenly;
+                    flex-wrap: wrap;
+                    gap: 4rem;
+                }
+                                #location {
+                                    width: 70%;
+                                    height: 550px;
+                                    margin: 4rem 0rem;
+                                }
+}

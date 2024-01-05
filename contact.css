@@ -1,0 +1,112 @@
+/* Header */
+
+header {
+    background: url("https://media.istockphoto.com/id/1421460958/photo/hand-of-young-woman-searching-location-in-map-online-on-smartphone.webp?b=1&s=170667a&w=0&k=20&c=D2BB09tURV2KX7wtd8FrhIBXYNGgHTT2aLOvn-Zrp-E=");
+    background: url('https://images.unsplash.com/photo-1619468129361-605ebea04b44?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWFwfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+/* Form css */
+.name {
+    font-size: 23px;
+    margin: 1rem 0rem;
+}
+
+.input-data {
+    width: 24rem;
+    font-size: 16px;
+    padding: 4px;
+    border: 2px solid rgb(107, 93, 93);
+    border-radius: 4px;
+    height: 3rem;
+}
+
+/* click here button */
+
+.contact-button:hover{
+color: white;
+font-weight: 900;
+cursor: pointer;
+}
+
+.contact-button span{
+    position: relative;
+    z-index: 1;
+}
+.contact-button{
+    width: 6rem;
+        height: 2.5rem;
+        border: 2px solid black;
+        font-size: 16px;
+        padding: 4px;
+        border-radius: 4px;
+        display: block;
+    position: relative;
+    margin-top: 1rem;
+}
+
+.contact-button::after{
+    content: "";
+    left: 0;
+    top: 0;
+    position: absolute;
+    height: 36px;
+    width: 0%;
+background: rgb(71, 65, 65);
+    transition: all 0.3s ease;
+
+}
+.contact-button:hover::after{
+    width: 100%;
+}
+
+.styling {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.contact-foam {
+    width: 100%;
+    margin: 2rem 0rem;
+}
+
+
+.contact-heading {
+    font-size: 35px;
+    text-align: center;
+}
+
+.h2 {
+    text-align: center;
+    margin: 0rem 0rem 1rem 0rem;
+}
+
+.h2-sec-form {
+    margin: 1rem 0rem;
+}
+
+#contact-us {
+    border: white;
+    box-shadow: 0px 7px 10px rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    width: 36rem;
+}
+
+#textarea {
+    border: 2px solid black;
+    width: 24rem;
+}
+
+
+/* Location by map */
+
+#location {
+    width: 90%;
+    height: 600px;
+    margin: 4rem 2rem;
+
+}

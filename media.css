@@ -1,0 +1,1067 @@
+@media screen and (max-width:1264px) {
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+        width: 20rem;
+    }
+
+
+}
+
+
+
+
+
+@media screen and (max-width:1182px) {
+    .sign-btn {
+        margin: 0rem 1rem 0rem 0rem;
+    }
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+        width: 20rem;
+        margin: 0rem 1rem 0rem 1rem;
+        border-radius: 4px;
+        padding: 7px;
+    }
+
+    .technical {
+        width: 300px;
+        height: 360px;
+    }
+
+    .technical .info {
+        font-size: 18px;
+    }
+
+    .container {
+        margin: 0rem 9rem 0rem 8rem;
+    }
+
+    .internship--detail {
+
+        margin: 1rem 9rem 0rem 8rem;
+    }
+
+
+
+    .map2 {
+        margin: 0rem 3rem;
+
+    }
+
+
+
+    .img-scholar {
+
+        height: 22rem;
+        margin: 0rem 1rem;
+    }
+
+}
+
+
+@media screen and (max-width:1032px) {
+
+    .container-for-footer p {
+        line-height: 40px;
+    }
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+        /* width: 100%; */
+        width: 17rem;
+        margin: 0rem 1rem 0rem 1rem;
+        border-radius: 4px;
+        padding: 7px;
+    }
+
+    .learn {
+        font-size: 18px;
+        margin: 0rem 0rem;
+        padding: 7px;
+    }
+
+    .learn2 {
+        margin: 0rem 5rem;
+    }
+
+    .learning {
+        margin-bottom: 3rem;
+        /* display: flex;
+        flex-wrap: wrap; */
+    }
+
+    .technical {
+        width: 250px;
+        height: 330px;
+    }
+
+    .map-flex {
+        margin: 0rem 5rem;
+    }
+
+    .map2 {
+        display: flex;
+        width: 80%;
+    }
+
+    .img-map {
+        width: 45rem;
+        height: 18rem;
+    }
+
+    .our-process {
+
+        margin: 3rem 0rem 0rem 0rem;
+
+    }
+
+    .criteria {
+        margin: 3rem 0rem 0rem 0rem;
+    }
+
+    .img-media-query {
+        display: flex;
+        justify-content: center;
+        gap: 8rem;
+
+    }
+
+    .flex-privacy {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .privacy-img,
+    .privacy2-img {
+        width: 16rem;
+        margin: 0rem;
+    }
+}
+
+@media screen and (max-width:920px) {
+    .privacy-head {
+        font-size: 33px;
+        margin: 0;
+    }
+
+    .privacy-img,
+    .privacy2-img {
+        width: 11rem;
+        margin: 0rem;
+    }
+
+    .question-answers {
+        width: 39rem;
+        cursor: pointer;
+    }
+
+    .answer-show {
+
+        width: 37rem;
+
+    }
+
+    .questions {
+        font-size: 33px;
+        margin: 0;
+    }
+
+    .captcha-btn {
+        height: 36.5px;
+    }
+
+    .captcha-container-input {
+
+        width: 17rem;
+    }
+
+    #captcha {
+        width: 17rem;
+    }
+
+    #input-portal {
+        width: 17rem;
+        padding: 8px;
+        font-size: 15px;
+    }
+
+    .Password {
+        font-size: 16px;
+
+    }
+
+    .signin-btn {
+        width: 5rem;
+    }
+
+    .our-process {
+        text-transform: capitalize;
+        font-size: 40px;
+    }
+
+    .detail-portal {
+        text-align: center;
+        margin: 10px;
+    }
+
+    .portal-formss {
+
+        margin: 4rem 0rem;
+    }
+
+    .candidate {
+        margin: 0;
+        text-align: center;
+        font-size: 40px;
+    }
+
+    .eligibility {
+        display: flex;
+        margin: 2rem 4rem;
+    }
+
+    .eligibility-pic {
+        height: 13rem;
+    }
+
+    hr {
+
+        width: 8%;
+    }
+
+    .list li h2 {
+        font-size: 26px;
+    }
+
+    .list li {
+        margin: 1rem 0rem;
+    }
+
+    .scholarship {
+        font-size: 33px;
+    }
+
+    .scholarship-form {
+        margin: 1rem 0rem;
+    }
+
+    .learn2 {
+        margin: 0rem 6rem;
+        font-size: 20px;
+    }
+
+    .order-list {
+        margin-left: 0rem;
+    }
+
+    .INTERNSHIP {
+        font-size: 33px;
+        margin: 1rem 0rem 0rem 0rem;
+    }
+
+    .img-map {
+        width: 20rem;
+        height: 18rem;
+        margin: 0rem .5rem;
+    }
+
+    .internship--detail {
+        margin: 1rem 7rem;
+
+    }
+
+    .order-list li {
+        width: 28rem;
+    }
+
+    .img-scholar {
+        height: 15rem;
+    }
+
+}
+
+
+@media screen and (max-width:934px) {
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+        width: 15rem;
+        height: 31rem;
+        margin: 0rem 1rem 0rem 1rem;
+        border-radius: 4px;
+        padding: 5px;
+    }
+
+    .technical {
+        width: 200px;
+        height: 300px;
+    }
+
+    .technical .info {
+        font-size: 14px;
+
+    }
+
+    .learn {
+        font-size: 17px;
+    }
+
+    .detail h1 {
+        font-size: 25px;
+    }
+
+    .courses-offer {
+        font-size: 30px;
+        margin: 1rem 0rem 0rem 0rem;
+    }
+
+    #course {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width:802px) {
+
+    .container-for-footer p {
+        line-height: 40px;
+    }
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+
+        width: 14rem;
+        height: 25rem;
+
+        border-radius: 4px;
+        padding: 5px;
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+    .learn {
+        font-size: 16px;
+    }
+
+    .stay {
+        font-size: 22px;
+    }
+
+    .logo {
+        width: 50px;
+    }
+
+    .focused-logo {
+        width: 27px;
+    }
+
+    .technical {
+        margin: 0rem 0rem 1rem 0rem;
+    }
+
+    .skill-set {
+        margin: 0rem 15px;
+    }
+
+    .skills {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        width: 100%;
+    }
+
+    .skill2 {
+
+        display: none;
+    }
+
+    .skill3 {
+
+        display: none;
+
+    }
+
+    .show-courses {
+        display: flex;
+    }
+
+    .skill-set {
+        margin: 0rem 15px;
+        width: 100%;
+    }
+
+    .technical {
+        width: 70%;
+        margin: 2rem 6rem;
+    }
+
+    .technical .info {
+        font-size: 20px;
+        padding: 0rem;
+        margin: 2rem;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    h1 {
+        margin: 0rem 0rem;
+        font-size: 27px;
+    }
+
+    .head-footer {
+        margin: 0;
+        font-size: 26px;
+    }
+
+    .container-for-footer h2 {
+        font-size: 23px;
+    }
+
+    .container-for-footer h1 {
+        font-size: 26px;
+    }
+
+    .container-for-footer p {
+        font-size: 18px;
+        line-height: 30px;
+
+    }
+
+    .container-for-footer i {
+        color: white;
+        font-size: 4rem;
+        margin: 1rem 0rem 0rem 0rem;
+    }
+
+    .sidebar a {
+        font-size: 16px;
+        padding: 22px 10px;
+    }
+
+    .sidebar .toggle-btn {
+        font-size: 29px;
+    }
+
+
+
+    .sign-heading {
+        margin: 0;
+    }
+
+    .label {
+        margin: .25rem;
+    }
+
+
+    .main-header {
+        padding: 20px;
+        opacity: 0.8;
+        top: 10rem;
+        position: absolute;
+        left: 1rem;
+        font-size: 14px;
+    }
+
+    .input {
+        width: 12rem;
+    }
+
+    .form {
+        width: 15rem;
+    }
+
+    h1 strong {
+        font-size: 23px;
+        margin: 0;
+    }
+
+    .captcha-container-input {
+        width: 13rem;
+    }
+
+    #captcha {
+        width: 13rem;
+    }
+
+    .captcha-btn {
+        height: 34.5px;
+        bottom: -8px;
+    }
+
+    .login-candidate-portal {
+        font-size: 18px;
+        margin: .5rem 3rem;
+        width: 11rem;
+        text-align: start;
+    }
+
+    .signin-btn {
+        width: 8rem;
+        font-size: 12px;
+        margin: 1rem 2rem;
+        display: block;
+
+    }
+
+    .submit-captcha {
+
+        font-size: 14px;
+    }
+
+    .portal-form {
+        margin: 0rem 2rem;
+    }
+
+    .sidebar .toggle-btn {
+        right: 10px;
+    }
+
+    .navbar-index {
+        display: none;
+
+    }
+
+    .order-list li {
+        font-size: 18px;
+    }
+
+    .internship-note {
+
+        width: 37rem;
+        text-align: center;
+    }
+
+    .img-map {
+        width: 13rem;
+        height: 13rem;
+
+    }
+
+    .btn-scholarship {
+        font-size: 15px;
+    }
+
+    .order-list li {
+        width: 21rem;
+    }
+
+
+    .roll-no {
+        width: 18rem;
+    }
+
+    .rollno {
+        width: 18rem;
+    }
+
+    .learn2 {
+        font-size: 18px;
+    }
+
+    .internship--detail {
+        font-size: 18px;
+    }
+
+    #input-portal {
+        width: 13rem;
+        padding: 7px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 735px) {
+    .main-header {
+        padding: 20px;
+        opacity: 0.8;
+        top: 24rem;
+        position: absolute;
+        left: 2rem;
+        font-size: 14px;
+        width: 70%;
+    }
+
+    .img-scholar {
+        height: 11rem;
+        margin: 2rem 0rem;
+    }
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+
+        width: 13rem;
+        height: 27rem;
+        padding: 0px;
+        margin: 0rem 0rem 0rem 1rem;
+    }
+
+}
+
+@media screen and (max-width:670px) {
+
+    .stay-focus,
+    .self-learning,
+    .Strategies {
+        width: 60%;
+        height: 100%;
+        padding: 7px;
+        margin: 1rem 0rem;
+    }
+
+    .learning {
+        margin-bottom: 3rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .learn {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:624px) {
+    .internship--detail {
+        margin: 1rem 5rem;
+    }
+
+    .container-for-footer p {
+        line-height: 25px;
+    }
+
+    .internship-note {
+        width: 31rem;
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .steps {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .img-scholar {
+        height: 8rem;
+        margin: 7rem 1rem;
+    }
+
+    .eligibility-pic {
+        height: 6rem;
+        margin: 0rem -2rem;
+    }
+
+    .our-process {
+        text-transform: capitalize;
+        font-size: 33px;
+    }
+
+    .list li h2 {
+        font-size: 23px;
+    }
+
+    .list li {
+        font-size: 18px;
+    }
+
+    .eligibility {
+        font-size: 18px;
+    }
+
+    .candidate {
+        font-size: 33px;
+    }
+
+    .detail-portal {
+        font-size: 16px;
+
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    .container-for-footer p {
+        line-height: 24px;
+    }
+
+    .img-map {
+        width: 9rem;
+        height: 8rem;
+        margin: 5rem 0rem 0rem 1rem;
+    }
+
+
+    .order-list li {
+        font-size: 17px;
+    }
+
+    .INTERNSHIP {
+        font-size: 28px;
+    }
+
+    .portal-formss {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .portal-form {
+        width: 100%;
+        margin: 1rem 0rem;
+    }
+
+    .signin-btn {
+        width: 5rem;
+        font-size: 12px;
+        margin: 1rem 0rem;
+        display: inline-block;
+    }
+
+    .login-candidate-portal {
+        font-size: 18px;
+        margin: .5rem 1rem;
+        width: 11rem;
+        text-align: center;
+    }
+
+    .captcha-container-input {
+        width: 13rem;
+    }
+
+    .captcha-style {
+        padding: 3rem;
+        margin: 1rem 0rem;
+    }
+
+    .questions {
+        font-size: 30px;
+    }
+
+    .fqas-png {
+        width: 6rem;
+    }
+
+    .question-answers {
+        width: 27rem;
+        font-size: 18px;
+    }
+
+    .answer-show {
+        width: 26rem;
+        font-size: 17px;
+    }
+
+    hr {
+        width: 12%;
+    }
+
+    .privacy-head {
+        font-size: 29px;
+        margin: 0;
+    }
+
+    #Privacy h1 {
+        font-size: 20px;
+    }
+
+
+    #Privacy p {
+        font-size: 16px;
+
+    }
+
+    #Privacy ul li {
+        font-size: 16px;
+    }
+
+    .last-links a {
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width:534px) {
+    .container-for-footer p {
+        line-height: 20px;
+    }
+
+    .technical .info {
+        padding: 0rem;
+        margin: 0rem;
+    }
+
+    .img-map {
+        display: none;
+    }
+
+    .order-list li {
+        font-size: 20px;
+        width: 26rem;
+    }
+
+    .internship--detail {
+        margin: 1rem 4rem;
+    }
+
+    .internship-note {
+        width: 25rem;
+
+    }
+
+    .sidebar .toggle-btn {
+        height: 37px;
+        font-size: 29px;
+    }
+
+    .log-btn,
+    .sign-btn {
+        padding: 6px;
+        width: 6em;
+        font-size: 11px;
+        border: 2px solid white;
+        border-radius: 4px;
+        margin: 2px 4px;
+        cursor: pointer;
+    }
+
+    .log-btn::before {
+        top: -2px;
+        left: -2px;
+
+    }
+
+    .media-btn {
+        display: flex;
+    }
+
+    .sign-btn {
+        margin-right: 3px;
+    }
+
+    .img-scholar {
+        display: none;
+    }
+
+    h1 {
+        margin: 0rem 0rem;
+        font-size: 26px;
+    }
+
+    .order-list li {
+        font-size: 17px;
+        width: 26rem;
+    }
+
+    .our-process {
+        text-transform: capitalize;
+        font-size: 29px;
+    }
+
+    .list li h2 {
+        font-size: 20px;
+    }
+
+    .criteria {
+        font-size: 23px;
+    }
+
+    .candidate {
+        font-size: 29px;
+    }
+
+    .detail-portal {
+        font-size: 16px;
+        margin: 0rem 6rem;
+    }
+
+    .questions {
+        font-size: 26px;
+    }
+
+    .fqas-png {
+        width: 5rem;
+    }
+
+    .footer-sec-container {
+        text-align: center;
+        margin: 0rem 3rem;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+
+    .container-for-footer p {
+        line-height: 20px;
+    }
+
+    .img-media-query {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+    }
+
+    .container-for-footer h2 {
+        font-size: 18px;
+    }
+
+    .technical {
+        width: 70%;
+        margin: 2rem 2rem 2rem 4rem;
+    }
+
+    .order-list li {
+        font-size: 17px;
+        width: 20rem;
+        margin-bottom: 1.25rem;
+    }
+
+    .INTERNSHIP {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    .questions {
+        font-size: 23px;
+    }
+
+    .internship-note {
+        width: 17rem;
+
+    }
+
+    .question-answers {
+        width: 21rem;
+        font-size: 16px;
+    }
+
+    .answer-show {
+        width: 20rem;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width:424px) {
+    .container-for-footer .social-links a i {
+        margin: 0;
+        font-size: 3rem;
+    }
+
+    .container-for-footer .social-links div a i {
+
+        margin: 15px 0px;
+    }
+
+    .container-for-footer h2 {
+        font-size: 16px;
+        margin: 0 1rem;
+    }
+
+    .container-for-footer h1 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .container-for-footer p {
+        font-size: 16px;
+
+    }
+
+    .container-for-footer .social-links a i {
+        line-height: 18px;
+    }
+}
+
+@media screen and (max-width:370px) {
+    .container-for-footer .last-links {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .technical .info {
+        font-size: 16px;
+        padding: 0rem;
+        margin: 0rem;
+    }
+
+
+    .order-list li {
+        font-size: 17px;
+        width: 16rem;
+        margin-bottom: 1rem;
+        margin-top: 0;
+    }
+
+    .steps {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .scholarship-form {
+        padding: 15px;
+    }
+
+    .roll-no {
+        width: 12rem;
+    }
+
+    .rollno {
+        width: 13rem;
+    }
+
+    .btn-scholarship {
+        font-size: 13px;
+        width: 12rem;
+    }
+
+    .internship--detail {
+        margin: 1rem 2rem;
+    }
+
+    .eligibility {
+        display: flex;
+        margin: 0rem 2rem 0rem 2rem;
+        flex-direction: column-reverse;
+    }
+
+    .eligibility-pic {
+        height: 9rem;
+        margin: 1rem 0rem 1rem 0rem;
+    }
+
+    .img-media-query {
+        gap: 0rem;
+    }
+
+    #Privacy p {
+        font-size: 16px;
+        padding: 0 1rem;
+    }
+
+    #Privacy h1 {
+        padding: 0 1rem;
+    }
+
+    .container-for-footer p {
+        line-height: 24px;
+    }
+
+    .container-for-footer a {
+        line-height: 24px;
+        font-size: 14px;
+    }
+
+    .container-for-footer .social-links div a i {
+        font-size: 3rem;
+        margin: 10px 0px;
+    }
+}

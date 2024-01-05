@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+
+header{
+    background: url("https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29mZmVlJTIwd2l0aCUyMGNvbXB1dGVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.main-header {
+    margin: 8rem 0rem 0rem 5em;
+}
+
+/* Intro Section before detail of each course */
+
+#intro-section{
+    width: 100%;
+}
+#intro-section h1,h2,p {
+ margin: .8rem 0rem;
+}
+#intro-section 
+p {
+ font-size: 20px;
+}
+
+
+/* Course image and picture detail + styling */
+
+.flex{
+    display: flex;
+    align-items: center;
+    gap: 7rem;
+    margin: 0rem 8rem;
+    padding: 5px;
+}
+.head{
+    font-size: 40px;
+    text-align: center;
+}
+.head-img{
+    width: 30rem;
+    margin: 3rem;
+
+}
+.img-container{
+    text-align: center;
+}
+.flex-img{
+    display: flex;
+}
+#Course-front-end{
+    margin: 2rem 4rem;
+}
+ 
+/* Cyber Security Course */
+
+#Cyber{
+    margin: 2rem 4rem;
+}
+
+/* Artificcial-Intelligence Course */
+
+#Artificcial-Intelligence{
+    margin: 2rem 4rem;
+}
+
+/* FreeLancing Course */
+
+#FreeLancing{
+    margin: 2rem 4rem;
+}
+.freelance-img {
+    width: 25rem;
+    margin: 2rem;
+}
+
+/* Python Course */
+
+#python{
+    margin: 2rem 4rem;
+}
+
+/* Graphic Designing */
+
+#Graphic-Design{
+    margin: 2rem 4rem;
+}
+
+/* Digital Marketing */
+
+#Digital-Marketing{
+    margin: 2rem 4rem;
+}
+
+/* Wordpress */
+
+#Word-Press {
+    margin: 2rem 4rem;
+}
+
+.wordpress-img{
+width: 17rem;
+
+}
+
+.headinds{
+    margin: 2rem 4rem;
+}
+
+.whole-section-one p {
+font-size: 20px;
+}
+.whole-section-one strong {
+    font-size: 20px;
+}
+.whole-section-one ul li {
+    font-size: 20px;
+    margin: 1rem 0rem;
+}
+.whole-section-one ol li {
+    font-size: 20px;
+    margin: 1rem 0rem;
+}
+
+
+/* Information aBout us table by html css and javascipt */
+.about-us{
+        width: 100%;
+        margin: 3rem 0rem;
+}
+.scope{
+
+    margin: 1rem 0rem;
+}
+.training{
+    border: 1px solid rgb(100, 100, 100);
+    padding: 7px;
+    width: 14rem;
+    font-size: 20px;
+}
+.training:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+.why-us{
+    font-size: 20px;
+}
+.not-show{
+    display: none;
+}
+.mission{
+
+    font-size: 20px;
+    }
+.vision{
+
+    font-size: 20px;
+    }
+.show-all-data{
+    display: block;
+}
